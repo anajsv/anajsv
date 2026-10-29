@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:0A1020,35:123B5D,70:315CBB,100:8B9CF6&text=Ana%20J%C3%BAlia%20Santiago%20Vieira&fontSize=31&fontColor=F4F7FF&fontAlignY=48&animation=fadeIn" width="100%" alt="Ana Júlia Santiago Vieira — portfólio de tecnologia" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=210&color=0:0A1020,35:123B5D,70:315CBB,100:8B9CF6&text=Ana%20J%C3%BAlia%20Santiago%20Vieira&fontSize=31&fontColor=F4F7FF&fontAlignY=48&animation=fadeIn" width="100%" alt="Ana Julia Santiago Vieira — portfólio de tecnologia" />
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 ### A little about me
 
-Sou Ana Júlia, estudante de **Ciência da Computação na UNIR** e **Engenharia da Computação na UNISAPIENS**.
+Sou Ana Julia, estudante de **Ciência da Computação na UNIR** e **Engenharia da Computação na UNISAPIENS**.
 
 Minha trajetória passa pela programação, pela matemática computacional e pela vontade de entender como as coisas funcionam por trás da interface.
 
